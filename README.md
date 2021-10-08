@@ -39,6 +39,7 @@ https://github.com/kuc-arc-f/apollo_server_prisma_3
 ***
 ### blog
 
+https://zenn.dev/knaka0209/books/befdda3d27a264/viewer/998a19
 
 ***
 
